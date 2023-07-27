@@ -1,4 +1,4 @@
-package Java_Fundamentals_Training;
+
 
 public class Kata_001 {
   public static int sumMul(int n, int m) {
