@@ -22,9 +22,15 @@ Basic Mathematical Operations <br>
 27/07/23 <br>
 String types need double quotation marks "" whereas the primitive type char is single ''
 
-### Kata_004
+### Kata_005
 8 kyu <br>
 Area or Perimeter <br>
 27/07/23 <br>
 DO NOT FORGET THE ; AT THE END - also "==" for comparing ints.
+
+### Kata_006
+8 kyu <br>
+Triple Trouble <br>
+27/07/23 <br>
+To concatenate strings, you must establish that "String letters" is actually a string, in this instance I explicitly converted the first character from a char to a string, any other chars added would then be allowed.
 

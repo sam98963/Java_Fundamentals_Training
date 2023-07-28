@@ -1,4 +1,4 @@
-package Java_Fundamentals_Training;
+
 
 public class Kata_002 {
   public static int noBoringZeros(int n) {
