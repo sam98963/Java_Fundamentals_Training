@@ -34,9 +34,15 @@ Triple Trouble <br>
 27/07/23 <br>
 To concatenate strings, you must establish that "String letters" is actually a string, in this instance I explicitly converted the first character from a char to a string, any other chars added would then be allowed.
 
-### Kata_006
+### Kata_007
 8 kyu <br>
 Miles per gallon to kilometers per litre <br>
 31/07/23 <br>
 Divide and multiply by 100.0 not 100, established both as floats too - integer arithmetic truncates the decimals, so I avoided that.
+
+### Kata_008
+7 kyu <br>
+Count the Divisors in a Number <br>
+1/08/23 <br>
+Solved this okay, system.out.print() doesnt allow a number of outputs seperated by a comma, you can concatinate the string but the comma doesn't allow two variables to print next to each other.
 
