@@ -46,3 +46,8 @@ Count the Divisors in a Number <br>
 1/08/23 <br>
 Solved this okay, system.out.print() doesnt allow a number of outputs seperated by a comma, you can concatinate the string but the comma doesn't allow two variables to print next to each other.
 
+### Kata_009
+7 kyu <br>
+Factorial <br>
+2/08/23
+
