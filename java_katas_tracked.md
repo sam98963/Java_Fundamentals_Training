@@ -51,10 +51,13 @@ Solved this okay, system.out.print() doesnt allow a number of outputs seperated 
 Factorial <br>
 2/08/23
 
-### Kata_009
+### Kata_010
 8 kyu <br>
 Removing Elements <br>
 3/08/23<br>
 Java arrays are fixed in size, and you cannot dynamically resize them using the push method.
 Use an ArrayList to dynamically store the elements and then convert it back to an array before returning.
-
+### Kata_011
+7 kyu <br>
+Odd or Even? <br>
+8/08/23<br>
