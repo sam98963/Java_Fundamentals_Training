@@ -61,3 +61,9 @@ Use an ArrayList to dynamically store the elements and then convert it back to a
 7 kyu <br>
 Odd or Even? <br>
 8/08/23<br>
+
+### Kata_012
+7 kyu <br>
+Replace every nth <br>
+16/08/23<br>
+You cannot .join an array of characters. Also you must be more careful handling characters and strings.
