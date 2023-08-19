@@ -67,3 +67,6 @@ Odd or Even? <br>
 Replace every nth <br>
 16/08/23<br>
 You cannot .join an array of characters. Also you must be more careful handling characters and strings.
+
+### Python Leetcode
+Working with linked lists. Learning about updating the head of the list to a new node and comparing to lists and merging into one.
