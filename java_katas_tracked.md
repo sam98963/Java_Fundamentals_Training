@@ -70,3 +70,8 @@ You cannot .join an array of characters. Also you must be more careful handling 
 
 ### Python Leetcode
 Working with linked lists. Learning about updating the head of the list to a new node and comparing to lists and merging into one.
+
+### Kata_013
+8 kyu <br>
+Price of billboard name - not allowed to use "*" <br>
+26/08/23<br>
