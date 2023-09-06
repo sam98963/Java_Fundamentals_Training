@@ -75,3 +75,8 @@ Working with linked lists. Learning about updating the head of the list to a new
 8 kyu <br>
 Price of billboard name - not allowed to use "*" <br>
 26/08/23<br>
+
+### Kata_014
+8 kyu <br>
+Difference in volumes of cuboids <br>
+06/09/23<br>
