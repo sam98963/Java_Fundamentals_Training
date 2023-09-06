@@ -80,3 +80,8 @@ Price of billboard name - not allowed to use "*" <br>
 8 kyu <br>
 Difference in volumes of cuboids <br>
 06/09/23<br>
+
+### Kata_015
+8 kyu <br>
+Opposites Attract<br>
+06/09/23<br>
