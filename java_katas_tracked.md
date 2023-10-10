@@ -90,3 +90,8 @@ Opposites Attract<br>
 8 kyu <br>
 alternating case<br>
 10/10/23<br>
+
+### Kata_017
+8 kyu <br>
+Lost without a map<br>
+10/10/23<br>
