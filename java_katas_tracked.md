@@ -85,3 +85,8 @@ Difference in volumes of cuboids <br>
 8 kyu <br>
 Opposites Attract<br>
 06/09/23<br>
+
+### Kata_016
+8 kyu <br>
+alternating case<br>
+10/10/23<br>
