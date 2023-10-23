@@ -105,3 +105,8 @@ Count times changed between positive and negative<br>
 7 kyu <br>
 Number of People in the bus<br>
 23/10/23<br>
+
+### Kata_020
+7 kyu <br>
+Are the numbers in order?<br>
+23/10/23<br>
