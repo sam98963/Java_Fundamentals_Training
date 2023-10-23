@@ -100,3 +100,8 @@ Lost without a map<br>
 7 kyu <br>
 Count times changed between positive and negative<br>
 23/10/23<br>
+
+### Kata_019
+7 kyu <br>
+Number of People in the bus<br>
+23/10/23<br>
