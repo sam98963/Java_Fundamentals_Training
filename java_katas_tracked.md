@@ -95,3 +95,8 @@ alternating case<br>
 8 kyu <br>
 Lost without a map<br>
 10/10/23<br>
+
+### Kata_018
+7 kyu <br>
+Count times changed between positive and negative<br>
+23/10/23<br>
