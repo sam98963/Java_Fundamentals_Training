@@ -110,3 +110,7 @@ Number of People in the bus<br>
 7 kyu <br>
 Are the numbers in order?<br>
 23/10/23<br>
+### Kata_021
+7 kyu <br>
+Anagram detection<br>
+24/10/23<br>
