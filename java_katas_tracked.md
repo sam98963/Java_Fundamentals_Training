@@ -114,3 +114,7 @@ Are the numbers in order?<br>
 7 kyu <br>
 Anagram detection<br>
 24/10/23<br>
+### Kata_022
+6 kyu <br>
+Multiples of 3 or 5<br>
+24/10/23<br>
