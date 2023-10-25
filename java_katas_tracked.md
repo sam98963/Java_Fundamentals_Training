@@ -123,3 +123,8 @@ Multiples of 3 or 5<br>
 6 kyu <br>
 Create phone number<br>
 25/10/23<br>
+
+### Kata_024
+6 kyu <br>
+Array.diff<br>
+25/10/23<br>
