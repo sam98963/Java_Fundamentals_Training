@@ -117,4 +117,9 @@ Anagram detection<br>
 ### Kata_022
 6 kyu <br>
 Multiples of 3 or 5<br>
-24/10/23<br>
+25/10/23<br>
+
+### Kata_023
+6 kyu <br>
+Create phone number<br>
+25/10/23<br>
