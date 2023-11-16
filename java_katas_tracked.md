@@ -128,3 +128,8 @@ Create phone number<br>
 6 kyu <br>
 Array.diff<br>
 25/10/23<br>
+
+### Kata_025
+7 kyu <br>
+Find Screen Size<br>
+16/11/23<br>
