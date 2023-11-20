@@ -133,3 +133,8 @@ Array.diff<br>
 7 kyu <br>
 Find Screen Size<br>
 16/11/23<br>
+
+### Kata_026
+7 kyu <br>
+Numbers with this digit inside<br>
+20/11/23<br>
