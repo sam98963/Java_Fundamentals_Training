@@ -138,3 +138,8 @@ Find Screen Size<br>
 7 kyu <br>
 Numbers with this digit inside<br>
 20/11/23<br>
+
+### Kata_027
+7 kyu <br>
+From A to Z<br>
+22/11/23<br>
