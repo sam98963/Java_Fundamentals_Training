@@ -143,3 +143,8 @@ Numbers with this digit inside<br>
 7 kyu <br>
 From A to Z<br>
 22/11/23<br>
+
+### Kata_028
+7 kyu <br>
+Don't give me five!<br>
+24/11/23<br>
