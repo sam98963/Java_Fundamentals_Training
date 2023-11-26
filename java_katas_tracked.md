@@ -148,3 +148,8 @@ From A to Z<br>
 7 kyu <br>
 Don't give me five!<br>
 24/11/23<br>
+
+### Kata_029
+7 kyu <br>
+Regex Validate Pin Code<br>
+26/11/23<br>
